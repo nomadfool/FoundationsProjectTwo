@@ -2,7 +2,7 @@
 from data import stores
 from components import Cart
 
-site_name = ""  # Give your site a name
+site_name = "Cadabra.com"  # Give your site a name
 
 def welcome():
     print("Welcome to %s\nFeel free to shop throughout the stores we have, and only checkout once!" % site_name)
